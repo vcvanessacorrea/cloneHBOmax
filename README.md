@@ -1,15 +1,33 @@
-# Clone-HBOmax
-Clonando a página da HBO MAX e colocando em prática tudo que aprendi durante o curso de formação da DIO.
-O projeto possui como intuito aplicar os conceitos abordados na Trilha de CSS da DIO, ministrada pela instrutora Michele Ambrosio.
+# 🎬 Clone HBO Max
+Este projeto foi realizado durante o curso de Formação CSS Web Developer e oobjetivo era fazer um clone estático da página inicial da HBO Max, criado com HTML5 e CSS. Ele simula o visual moderno da plataforma de streaming, com navegação fixa, banner promocional, cards de planos e seções promocionais.
 
-Recursos CSS presentes no projeto:
+# 🚀 Tecnologias Utilizadas
+✅ HTML5
 
-- Fundamentos do CSS
-- Grid Layout
-- Flexbox
-- Responsividade
-- Pseudo-elementos
-- Pseudo-classes
-- Transformações 2D e 3D
-- Transições e animações
-- Tratamento de campos inválidos no formulário
+✅ CSS3 (Flexbox, Positioning, Responsividade)
+
+✅ Imagens e ícones (via links e arquivos locais)
+
+# 🎯 Funcionalidades Implementadas
+
+✅ Navbar fixa com logo, menu de navegação e botões de ação
+
+✅ Banner principal com imagem de fundo e overlay escuro
+
+✅ Seção de planos com cards interativos
+
+✅ Imagem promocional em destaque
+
+✅ Rodapé com direitos autorais
+
+✅ Layout responsivo para dispositivos móveis
+
+# 📌 Propósito do Projeto
+
+Este projeto tem fins educacionais e demonstrativos, visando:
+
+- Prática de HTML e CSS puro
+
+- Aprendizado sobre layouts fixos, overlay e elementos responsivos
+
+- Simulação de um site real com estrutura profissional
